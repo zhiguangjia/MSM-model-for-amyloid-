@@ -1,0 +1,832 @@
+#            from antiparallel simulation ,  restrained using v7.2  
+antiparalleldata 2 0 inregisters GLU:LYS 0 110 128
+antiparalleldata 2 0 inregisters GLU:LYS 1 75 1225
+antiparalleldata 2 0 inregisters LYS:GLU 0 30 21
+antiparalleldata 2 0 inregisters LYS:GLU 1 150 560
+antiparalleldata 2 0 misregisters GLU:LEU 0 930 125
+antiparalleldata 2 0 misregisters GLU:LEU 1 55 415
+antiparalleldata 2 0 misregisters GLU:VAL 0 85 65
+antiparalleldata 2 0 misregisters GLU:VAL 1 70 731
+antiparalleldata 2 0 misregisters LYS:ALA 0 2145 9
+antiparalleldata 2 0 misregisters LYS:ALA 1 150 535
+antiparalleldata 2 0 misregisters LYS:PHE 0 4880 6
+antiparalleldata 2 0 misregisters LYS:PHE 1 170 199
+#antiparalleldata 3 1 inregisters ALA:LEU 0 775 120
+#antiparalleldata 3 1 inregisters ALA:LEU 1 80 133
+#antiparalleldata 3 1 inregisters LEU:ALA 0 1810 80
+#antiparalleldata 3 1 inregisters LEU:ALA 1 80 213
+antiparalleldata 3 1 inregisters ALA:LEU 0 720 279
+antiparalleldata 3 1 inregisters ALA:LEU 1 80 306
+antiparalleldata 3 1 inregisters LEU:ALA 0 1245 208
+antiparalleldata 3 1 inregisters LEU:ALA 1 90 811
+antiparalleldata 3 1 misregisters ALA:LYS 0 1555 200
+antiparalleldata 3 1 misregisters ALA:LYS 1 65 131
+antiparalleldata 3 1 misregisters ALA:VAL 0 700 118
+antiparalleldata 3 1 misregisters ALA:VAL 1 50 161
+antiparalleldata 3 1 misregisters LEU:GLU 0 1850 123
+antiparalleldata 3 1 misregisters LEU:GLU 1 100 154
+antiparalleldata 3 1 misregisters LEU:PHE 0 3355 60
+antiparalleldata 3 1 misregisters LEU:PHE 1 120 70
+antiparalleldata 4 2 inregisters PHE:VAL 0 1305 86
+antiparalleldata 4 2 inregisters PHE:VAL 1 45 55
+antiparalleldata 4 2 inregisters VAL:PHE 0 1480 51
+antiparalleldata 4 2 inregisters VAL:PHE 1 95 52
+antiparalleldata 4 2 misregisters PHE:LEU 0 2150 134
+antiparalleldata 4 2 misregisters PHE:LEU 1 75 47
+antiparalleldata 4 2 misregisters PHE:LYS 0 615 108
+antiparalleldata 4 2 misregisters PHE:LYS 1 55 60
+antiparalleldata 4 2 misregisters PHE:PHE 0 2125 99
+antiparalleldata 4 2 misregisters PHE:PHE 1 45 50
+antiparalleldata 4 2 misregisters VAL:ALA 0 2780 73
+antiparalleldata 4 2 misregisters VAL:ALA 1 100 79
+antiparalleldata 4 2 misregisters VAL:GLU 0 1945 53
+antiparalleldata 4 2 misregisters VAL:GLU 1 85 80
+antiparalleldata 4 2 misregisters VAL:PHE 0 180 15
+antiparalleldata 4 2 misregisters VAL:PHE 1 60 18
+antiparalleldata 4 2 misregisters VAL:VAL 0 3680 15
+antiparalleldata 4 2 misregisters VAL:VAL 1 85 28
+#antiparalleldata 5 3 inregisters PHE:PHE 0 2725 43
+#antiparalleldata 5 3 inregisters PHE:PHE 1 335 58
+antiparalleldata 5 3 inregisters PHE:PHE 0 10225 60
+antiparalleldata 5 3 inregisters PHE:PHE 1 370 66
+antiparalleldata 5 3 misregisters PHE:PHE 0 3605 50
+antiparalleldata 5 3 misregisters PHE:PHE 1 385 63
+antiparalleldata 5 3 misregisters PHE:VAL 0 4270 62
+antiparalleldata 5 3 misregisters PHE:VAL 1 415 70
+antiparalleldata 6 4 inregisters PHE:VAL 0 2670 20
+antiparalleldata 6 4 inregisters PHE:VAL 1 195 44
+antiparalleldata 6 4 inregisters VAL:PHE 0 5345 22
+antiparalleldata 6 4 inregisters VAL:PHE 1 280 36
+antiparalleldata 6 4 misregisters PHE:PHE 0 4120 64
+antiparalleldata 6 4 misregisters PHE:PHE 1 135 77
+antiparalleldata 6 4 misregisters VAL:PHE 0 3425 27
+antiparalleldata 6 4 misregisters VAL:PHE 1 335 45
+antiparalleldata 6 4 misregisters VAL:VAL 0 3855 35
+antiparalleldata 6 4 misregisters VAL:VAL 1 325 34
+antiparalleldata 0 2 inregisters GLU:LYS 0 3827.42987111 1319
+antiparalleldata 0 2 inregisters GLU:LYS 1 3827.42987111 1319
+antiparalleldata 0 2 inregisters LYS:GLU 0 10597.1331058 586
+antiparalleldata 0 2 inregisters LYS:GLU 1 10597.1331058 586
+antiparalleldata 0 2 misregisters GLU:LEU 0 3571.66666667 531
+antiparalleldata 0 2 misregisters GLU:LEU 1 3571.66666667 531
+antiparalleldata 0 2 misregisters GLU:VAL 0 5400.86574655 797
+antiparalleldata 0 2 misregisters GLU:VAL 1 5400.86574655 797
+antiparalleldata 0 2 misregisters LYS:ALA 0 9633.86323268 563
+antiparalleldata 0 2 misregisters LYS:ALA 1 9633.86323268 563
+antiparalleldata 0 2 misregisters LYS:PHE 0 26383.4532374 278
+antiparalleldata 0 2 misregisters LYS:PHE 1 26383.4532374 278
+#antiparalleldata 1 3 inregisters ALA:LEU 0 28183.9655172 261
+#antiparalleldata 1 3 inregisters ALA:LEU 1 28183.9655172 261
+#antiparalleldata 1 3 inregisters LEU:ALA 0 16239.8305085 295
+#antiparalleldata 1 3 inregisters LEU:ALA 1 16239.8305085 295
+antiparalleldata 1 3 inregisters ALA:LEU 0 56674.6979866 596
+antiparalleldata 1 3 inregisters ALA:LEU 1 56674.6979866 596
+antiparalleldata 1 3 inregisters LEU:ALA 0 22426.171875 1024
+antiparalleldata 1 3 inregisters LEU:ALA 1 22426.171875 1024
+antiparalleldata 1 3 misregisters ALA:LYS 0 14826.5417867 347
+antiparalleldata 1 3 misregisters ALA:LYS 1 14826.5417867 347
+antiparalleldata 1 3 misregisters ALA:VAL 0 22128.161512 291
+antiparalleldata 1 3 misregisters ALA:VAL 1 22128.161512 291
+antiparalleldata 1 3 misregisters LEU:GLU 0 12257.8745645 287
+antiparalleldata 1 3 misregisters LEU:GLU 1 12257.8745645 287
+antiparalleldata 1 3 misregisters LEU:PHE 0 22368.8461538 156
+antiparalleldata 1 3 misregisters LEU:PHE 1 22368.8461538 156
+antiparalleldata 2 4 inregisters PHE:VAL 0 5074.73958333 96
+antiparalleldata 2 4 inregisters PHE:VAL 1 5074.73958333 96
+antiparalleldata 2 4 inregisters VAL:PHE 0 6428.5 40
+antiparalleldata 2 4 inregisters VAL:PHE 1 6428.5 40
+antiparalleldata 2 4 misregisters PHE:LEU 0 8757.2972973 111
+antiparalleldata 2 4 misregisters PHE:LEU 1 8757.2972973 111
+antiparalleldata 2 4 misregisters PHE:LYS 0 8951.42857143 112
+antiparalleldata 2 4 misregisters PHE:LYS 1 8951.42857143 112
+antiparalleldata 2 4 misregisters PHE:PHE 0 7167.24025974 154
+antiparalleldata 2 4 misregisters PHE:PHE 1 7167.24025974 154
+antiparalleldata 2 4 misregisters VAL:ALA 0 8041.91304348 115
+antiparalleldata 2 4 misregisters VAL:ALA 1 8041.91304348 115
+antiparalleldata 2 4 misregisters VAL:GLU 0 9505.72222222 90
+antiparalleldata 2 4 misregisters VAL:GLU 1 9505.72222222 90
+antiparalleldata 2 4 misregisters VAL:PHE 1 6428.5 40
+antiparalleldata 2 4 misregisters VAL:VAL 0 8129.6969697 33
+antiparalleldata 2 4 misregisters VAL:VAL 1 8129.6969697 33
+#antiparalleldata 3 5 inregisters PHE:PHE 0 7167.24025974 154
+#antiparalleldata 3 5 inregisters PHE:PHE 1 7167.24025974 154
+antiparalleldata 3 5 inregisters PHE:PHE 0 7819.46745562 169
+antiparalleldata 3 5 inregisters PHE:PHE 1 7819.46745562 169
+antiparalleldata 3 5 misregisters PHE:PHE 0 7167.24025974 154
+antiparalleldata 3 5 misregisters PHE:PHE 1 7167.24025974 154
+antiparalleldata 3 5 misregisters PHE:VAL 0 5074.73958333 96
+antiparalleldata 3 5 misregisters PHE:VAL 1 5074.73958333 96
+antiparalleldata 4 6 inregisters PHE:VAL 0 5074.73958333 96
+antiparalleldata 4 6 inregisters PHE:VAL 1 5074.73958333 96
+antiparalleldata 4 6 inregisters VAL:PHE 0 6428.5 40
+antiparalleldata 4 6 inregisters VAL:PHE 1 6428.5 40
+antiparalleldata 4 6 misregisters PHE:PHE 0 7167.24025974 154
+antiparalleldata 4 6 misregisters PHE:PHE 1 7167.24025974 154
+antiparalleldata 4 6 misregisters VAL:PHE 0 6428.5 40
+antiparalleldata 4 6 misregisters VAL:PHE 1 6428.5 40
+antiparalleldata 4 6 misregisters VAL:VAL 0 8129.6969697 33
+antiparalleldata 4 6 misregisters VAL:VAL 1 8129.6969697 33
+SS 2 inregisters 0 1 left 80 25602
+SS 2 inregisters 1 0 left 100 25464
+SS 2 misregisters 0 1 left 60 113799
+SS 2 misregisters 1 0 left 90 113651
+SS 3 inregisters 0 1 left 90 16408
+SS 3 inregisters 1 0 left 90 16361
+SS 3 misregisters 0 1 left 95 33249
+SS 3 misregisters 1 0 left 90 33170
+SS 4 inregisters 0 1 left 105 4339
+SS 4 inregisters 0 1 right 180 2054
+SS 4 inregisters 1 0 left 65 4345
+SS 4 inregisters 1 0 right 220 2043
+SS 4 misregisters 0 1 left 95 38633
+SS 4 misregisters 0 1 right 170 7168
+SS 4 misregisters 1 0 left 70 38591
+SS 4 misregisters 1 0 right 185 7135
+SS 5 inregisters 0 1 left 185 1409
+SS 5 inregisters 0 1 right 230 459
+SS 5 inregisters 1 0 left 165 1401
+SS 5 inregisters 1 0 right 240 444
+SS 5 misregisters 0 1 left 225 2903
+SS 5 misregisters 0 1 right 355 2459
+SS 5 misregisters 1 0 left 250 2901
+SS 5 misregisters 1 0 right 250 2432
+SS 6 inregisters 0 1 left 80 6011
+SS 6 inregisters 0 1 right 205 2971
+SS 6 inregisters 1 0 left 95 5999
+SS 6 inregisters 1 0 right 45 2943
+SS 6 misregisters 0 1 left 70 20018
+SS 6 misregisters 0 1 right 145 36508
+SS 6 misregisters 1 0 left 65 19997
+SS 6 misregisters 1 0 right 45 36470
+SS 7 inregisters 0 1 right 160 6323
+SS 7 inregisters 1 0 right 60 6275
+SS 7 misregisters 0 1 right 135 19063
+SS 7 misregisters 1 0 right 45 18969
+SS 8 inregisters 0 1 right 165 29095
+SS 8 inregisters 1 0 right 70 28412
+SS 8 misregisters 0 1 right 135 137575
+SS 8 misregisters 1 0 right 55 136989
+paralleldata 2 0 inregisters GLU:GLU 0 90 13
+paralleldata 2 0 inregisters GLU:GLU 1 235 178
+paralleldata 2 0 inregisters LYS:LYS 0 7510 5
+paralleldata 2 0 inregisters LYS:LYS 1 260 229
+paralleldata 2 0 misregisters GLU:ALA 0 2640 23
+paralleldata 2 0 misregisters GLU:ALA 1 165 567
+paralleldata 2 0 misregisters GLU:PHE 0 2240 168
+paralleldata 2 0 misregisters GLU:PHE 1 135 758
+paralleldata 2 0 misregisters LYS:LEU 0 1955 15
+paralleldata 2 0 misregisters LYS:LEU 1 195 747
+paralleldata 2 0 misregisters LYS:VAL 0 5450 5
+paralleldata 2 0 misregisters LYS:VAL 1 260 205
+paralleldata 3 1 inregisters ALA:ALA 0 910 65
+paralleldata 3 1 inregisters ALA:ALA 1 185 69
+paralleldata 3 1 inregisters LEU:LEU 0 2805 29
+paralleldata 3 1 inregisters LEU:LEU 1 120 86
+paralleldata 3 1 misregisters ALA:GLU 0 715 388
+paralleldata 3 1 misregisters ALA:GLU 1 175 227
+paralleldata 3 1 misregisters ALA:PHE 0 815 93
+paralleldata 3 1 misregisters ALA:PHE 1 225 235
+paralleldata 3 1 misregisters LEU:LYS 0 5840 92
+paralleldata 3 1 misregisters LEU:LYS 1 145 135
+paralleldata 3 1 misregisters LEU:VAL 0 7720 40
+paralleldata 3 1 misregisters LEU:VAL 1 155 73
+paralleldata 4 2 inregisters PHE:PHE 0 3285 72
+paralleldata 4 2 inregisters PHE:PHE 1 155 41
+paralleldata 4 2 inregisters VAL:VAL 0 4775 22
+paralleldata 4 2 inregisters VAL:VAL 1 95 29
+paralleldata 4 2 misregisters PHE:ALA 0 2815 109
+paralleldata 4 2 misregisters PHE:ALA 1 200 48
+paralleldata 4 2 misregisters PHE:GLU 0 2265 320
+paralleldata 4 2 misregisters PHE:GLU 1 140 127
+paralleldata 4 2 misregisters PHE:PHE 0 7875 79
+paralleldata 4 2 misregisters PHE:PHE 1 150 25
+paralleldata 4 2 misregisters PHE:VAL 0 6225 61
+paralleldata 4 2 misregisters PHE:VAL 1 120 18
+paralleldata 4 2 misregisters VAL:LEU 0 3655 50
+paralleldata 4 2 misregisters VAL:LEU 1 140 63
+paralleldata 4 2 misregisters VAL:LYS 0 2375 103
+paralleldata 4 2 misregisters VAL:LYS 1 130 93
+paralleldata 4 2 misregisters VAL:PHE 0 8970 52
+paralleldata 4 2 misregisters VAL:PHE 1 200 48
+paralleldata 6 4 inregisters PHE:PHE 0 10350 9
+paralleldata 6 4 inregisters PHE:PHE 1 560 2
+paralleldata 6 4 inregisters VAL:VAL 0 2675 34
+paralleldata 6 4 inregisters VAL:VAL 1 80 21
+paralleldata 6 4 misregisters PHE:PHE 0 7965 38
+paralleldata 6 4 misregisters PHE:PHE 1 750 41
+paralleldata 6 4 misregisters PHE:VAL 0 5510 68
+paralleldata 6 4 misregisters PHE:VAL 1 315 63
+paralleldata 6 4 misregisters VAL:PHE 0 8410 84
+paralleldata 6 4 misregisters VAL:PHE 1 655 81
+paralleldata 0 2 inregisters GLU:GLU 0 2655.0 179
+paralleldata 0 2 inregisters LYS:LYS 0 8250.0 232
+paralleldata 0 2 misregisters GLU:ALA 0 6485.0 591
+paralleldata 0 2 misregisters GLU:PHE 0 3745.0 938
+paralleldata 0 2 misregisters LYS:LEU 0 11690.0 792
+paralleldata 0 2 misregisters LYS:VAL 0 40765.0 233
+paralleldata 1 3 inregisters ALA:ALA 0 20395.0 134
+paralleldata 1 3 inregisters LEU:LEU 0 26145.0 123
+paralleldata 1 3 misregisters ALA:GLU 0 10890.0 605
+paralleldata 1 3 misregisters ALA:PHE 0 30305.0 334
+paralleldata 1 3 misregisters LEU:LYS 0 16805.0 227
+paralleldata 1 3 misregisters LEU:VAL 0 56815.0 120
+paralleldata 2 4 inregisters PHE:PHE 0 10343.5106383 235
+paralleldata 2 4 inregisters VAL:VAL 0 8742.5 34
+paralleldata 2 4 misregisters PHE:ALA 0 22790.0 93
+paralleldata 2 4 misregisters PHE:GLU 0 8115.0 409
+paralleldata 2 4 misregisters PHE:PHE 0 10343.5106383 235
+paralleldata 2 4 misregisters PHE:VAL 0 12433.2894737 152
+paralleldata 2 4 misregisters VAL:LEU 0 13140.0 50
+paralleldata 2 4 misregisters VAL:LYS 0 7685.0 164
+paralleldata 2 4 misregisters VAL:PHE 0 13554.6153846 91
+paralleldata 3 5 inregisters PHE:PHE 0 10343.5106383 235
+paralleldata 3 5 misregisters PHE:PHE 0 10343.5106383 235
+paralleldata 3 5 misregisters PHE:VAL 0 12433.2894737 152
+paralleldata 4 6 inregisters PHE:PHE 0 10343.5106383 235
+paralleldata 4 6 inregisters VAL:VAL 0 8742.5 34
+paralleldata 4 6 misregisters PHE:PHE 0 10343.5106383 235
+paralleldata 4 6 misregisters PHE:VAL 0 12433.2894737 152
+paralleldata 4 6 misregisters VAL:PHE 0 13554.6153846 91
+SS 2 inregisters 0 1 left 75 19295
+SS 2 inregisters 1 0 left 140 19089
+SS 2 misregisters 0 1 left 60 185020
+SS 2 misregisters 1 0 left 120 184104
+SS 3 inregisters 0 1 left 315 4687
+SS 3 inregisters 1 0 left 120 4623
+SS 3 misregisters 0 1 left 190 35806
+SS 3 misregisters 1 0 left 110 35631
+SS 4 inregisters 0 1 left 105 6784
+SS 4 inregisters 0 1 right 105 7984
+SS 4 inregisters 1 0 left 85 6762
+SS 4 inregisters 1 0 right 75 7961
+SS 4 misregisters 0 1 left 140 59075
+SS 4 misregisters 0 1 right 190 15251
+SS 4 misregisters 1 0 left 100 58907
+SS 4 misregisters 1 0 right 140 15193
+SS 5 inregisters 0 1 left 240 2162
+SS 5 inregisters 0 1 right 310 1738
+SS 5 inregisters 1 0 left 185 2152
+SS 5 inregisters 1 0 right 275 1704
+SS 5 misregisters 0 1 left 695 3353
+SS 5 misregisters 0 1 right 375 5560
+SS 5 misregisters 1 0 left 265 3328
+SS 5 misregisters 1 0 right 215 5489
+SS 6 inregisters 0 1 left 545 2735
+SS 6 inregisters 0 1 right 480 3652
+SS 6 inregisters 1 0 left 105 2732
+SS 6 inregisters 1 0 right 95 3613
+SS 6 misregisters 0 1 left 150 30128
+SS 6 misregisters 0 1 right 385 41155
+SS 6 misregisters 1 0 left 70 30033
+SS 6 misregisters 1 0 right 100 40968
+SS 7 inregisters 0 1 right 230 11838
+SS 7 inregisters 1 0 right 115 11789
+SS 7 misregisters 0 1 right 265 34411
+SS 7 misregisters 1 0 right 125 34001
+SS 8 inregisters 0 1 right 400 12279
+SS 8 inregisters 1 0 right 185 12132
+SS 8 misregisters 0 1 right 390 88509
+SS 8 misregisters 1 0 right 145 87258
+###  from antiparallel
+SS_free 2	0.575221238938
+SS_free 3	0.412121212121
+SS_free 4	0.340314136126
+SS_free 5 1 
+SS_free 6	0.168421052632
+SS_free 7	0.244186046512
+SS_free 8	0.328548644338
+###  from  parallel
+SS_free 2	0.548314606742
+SS_free 3	0.277777777778
+SS_free 4	0.280952380952
+SS_free 5         1 
+SS_free 6	0.130841121495
+SS_free 7	0.245
+SS_free 8	0.290395480226
+####  MSM builder data
+MSM_statelist nonspecific_13
+MSM_statelist nonspecific_11
+MSM_statelist nonspecific_14
+MSM_statelist nonspecific_12
+MSM_statelist nonspecific_7
+MSM_statelist nonspecific_10
+MSM_statelist nonspecific_5
+MSM_statelist nonspecific_0
+MSM_statelist nonspecific_6
+MSM_statelist nonspecific_8
+MSM_statelist nonspecific_2
+MSM_statelist nonspecific_4
+MSM_statelist nonspecific_3
+MSM_statelist nonspecific_1
+MSM_statelist nonspecific_9
+MSM_transitions nonspecific_b nonspecific_13 none 3712.17896175 2928
+MSM_transitions nonspecific_13 nonspecific_11 none 57.9518124405 11559
+MSM_transitions nonspecific_11 nonspecific_13 none 334.510159965 11565
+MSM_transitions nonspecific_13 nonspecific_b none 173.062895422 2687
+MSM_transitions nonspecific_b dissociate  none  4430.15625 64
+MSM_transitions dissociate nonspecific_b  none 14883.2635468 406
+MSM_transitions nonspecific_b nonspecific_11 none 3432.97967278 2017
+MSM_transitions nonspecific_11 nonspecific_12 none 279.386060425 87248
+MSM_transitions nonspecific_12 nonspecific_11 none 150.02661321 86799
+MSM_transitions nonspecific_11 nonspecific_14 none 151.411860033 127116
+MSM_transitions nonspecific_14 nonspecific_11 none 304.706607957 128088
+MSM_transitions nonspecific_12 nonspecific_7 none 175.400738837 6226
+MSM_transitions nonspecific_7 nonspecific_12 none 81.0358405657 6222
+MSM_transitions nonspecific_12 nonspecific_14 none 175.640398423 28412
+MSM_transitions nonspecific_14 nonspecific_12 none 107.334639277 28332
+MSM_transitions nonspecific_11 nonspecific_7 none 426.94149846 5846
+MSM_transitions nonspecific_7 nonspecific_11 none 126.238111707 5783
+MSM_transitions nonspecific_11 nonspecific_b none 769.241217799 2135
+MSM_transitions nonspecific_13 nonspecific_14 none 74.0491009682 1446
+MSM_transitions nonspecific_12 nonspecific_10 none 150.339082848 14436
+MSM_transitions nonspecific_10 nonspecific_12 none 120.762478485 14525
+MSM_transitions nonspecific_10 nonspecific_14 none 113.940511388 30779
+MSM_transitions nonspecific_14 nonspecific_10 none 122.888404051 30709
+MSM_transitions nonspecific_14 nonspecific_5 none 168.347251218 10059
+MSM_transitions nonspecific_5 nonspecific_14 none 80.8005171042 10056
+MSM_transitions nonspecific_b nonspecific_14 none 5019.36390533 676
+MSM_transitions nonspecific_11 nonspecific_6 none 192.021229544 4522
+MSM_transitions nonspecific_6 nonspecific_11 none 107.583647241 4513
+MSM_transitions nonspecific_11 nonspecific_10 none 81.0933488915 4285
+MSM_transitions nonspecific_14 nonspecific_2 none 193.540603248 2155
+MSM_transitions nonspecific_2 nonspecific_14 none 105.547020484 2148
+MSM_transitions nonspecific_14 nonspecific_3 none 162.145114244 8228
+MSM_transitions nonspecific_3 nonspecific_14 none 113.941759603 8070
+MSM_transitions nonspecific_2 nonspecific_4 none 45.6862745098 102
+MSM_transitions nonspecific_4 nonspecific_2 none 54.702970297 101
+MSM_transitions nonspecific_4 nonspecific_14 none 132.663894106 11181
+MSM_transitions nonspecific_3 nonspecific_1 none 83.6486486486 37
+MSM_transitions nonspecific_1 nonspecific_3 none 96.875 32
+MSM_transitions nonspecific_14 nonspecific_1 none 376.090604027 298
+MSM_transitions nonspecific_1 nonspecific_14 none 149.33447099 293
+MSM_transitions nonspecific_1 nonspecific_b none 702.222222222 9
+MSM_transitions nonspecific_14 nonspecific_4 none 135.550299027 11203
+MSM_transitions nonspecific_10 nonspecific_11 none 124.88355681 4251
+MSM_transitions nonspecific_14 nonspecific_13 none 149.467592593 1296
+MSM_transitions nonspecific_14 nonspecific_b none 1340.52631579 912
+MSM_transitions nonspecific_b nonspecific_10 none 5517.54285714 175
+MSM_transitions nonspecific_10 nonspecific_13 none 99.6279069767 215
+MSM_transitions nonspecific_4 nonspecific_5 none 87.942839196 1592
+MSM_transitions nonspecific_5 nonspecific_4 none 95.735479798 1584
+MSM_transitions nonspecific_6 nonspecific_14 none 93.669960658 32281
+MSM_transitions nonspecific_14 nonspecific_6 none 162.44549441 32382
+MSM_transitions nonspecific_10 nonspecific_3 none 52.1428571429 7
+MSM_transitions nonspecific_3 nonspecific_b none 542.160194175 206
+MSM_transitions nonspecific_13 nonspecific_10 none 86.7328519856 277
+MSM_transitions nonspecific_7 nonspecific_14 none 166.827548807 922
+MSM_transitions nonspecific_14 nonspecific_7 none 48.6348684211 912
+MSM_transitions nonspecific_14 nonspecific_0 none 93.9264828739 1197
+MSM_transitions nonspecific_0 nonspecific_14 none 121.941467436 1213
+MSM_transitions nonspecific_7 nonspecific_0 none 51.75 20
+MSM_transitions nonspecific_0 nonspecific_7 none 26.5384615385 13
+MSM_transitions nonspecific_12 nonspecific_0 none 249.888888889 45
+MSM_transitions nonspecific_0 nonspecific_12 none 157.575757576 33
+MSM_transitions nonspecific_11 nonspecific_8 none 269.059130435 2875
+MSM_transitions nonspecific_8 nonspecific_11 none 57.5776614311 2865
+MSM_transitions nonspecific_8 nonspecific_14 none 64.3578441194 4991
+MSM_transitions nonspecific_14 nonspecific_8 none 506.028588565 5002
+MSM_transitions nonspecific_2 nonspecific_10 none 25.0 2
+MSM_transitions nonspecific_12 nonspecific_8 none 39.7727272727 44
+MSM_transitions nonspecific_8 nonspecific_12 none 97.1590909091 44
+MSM_transitions nonspecific_13 nonspecific_4 none 20.0 1
+MSM_transitions nonspecific_14 nonspecific_9 none 694.281586361 13843
+MSM_transitions nonspecific_9 nonspecific_14 none 137.399536899 13388
+MSM_transitions nonspecific_b nonspecific_5 none 105.0 1
+MSM_transitions nonspecific_11 nonspecific_9 none 110.948644793 701
+MSM_transitions nonspecific_9 nonspecific_11 none 72.5314685315 715
+MSM_transitions nonspecific_8 nonspecific_9 none 74.2584745763 472
+MSM_transitions nonspecific_9 nonspecific_7 none 108.831168831 539
+MSM_transitions nonspecific_7 nonspecific_9 none 114.741697417 542
+MSM_transitions nonspecific_b nonspecific_12 none 20685.0 1
+MSM_transitions nonspecific_6 nonspecific_9 none 67.66 750
+MSM_transitions nonspecific_9 nonspecific_6 none 104.068493151 730
+MSM_transitions nonspecific_b nonspecific_3 none 7035.09433962 53
+MSM_transitions nonspecific_9 nonspecific_8 none 106.108742004 469
+MSM_transitions nonspecific_13 nonspecific_3 none 330.681818182 22
+MSM_transitions nonspecific_3 nonspecific_10 none 40.0 2
+MSM_transitions nonspecific_8 nonspecific_6 none 39.8148148148 27
+MSM_transitions nonspecific_6 nonspecific_8 none 44.7916666667 24
+MSM_transitions nonspecific_13 nonspecific_12 none 80.0 1
+MSM_transitions nonspecific_7 nonspecific_6 none 67.5 2
+MSM_transitions nonspecific_6 nonspecific_7 none 430.0 1
+# 
+# Formation event 
+# MSM_statenonspecific_0 
+# Formation event 
+# MSM_statenonspecific_1 
+# Formation event 
+# MSM_statenonspecific_10 
+# Formation event 
+# MSM_statenonspecific_11 
+#Anti Formation 
+MSM_transitions nonspecific_11 LYS:GLU antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 VAL:PHE antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 PHE:VAL antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 GLU:LYS antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LEU:ALA antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 PHE:PHE antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 ALA:LEU antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 PHE:LYS antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 VAL:VAL antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LYS:PHE antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 GLU:VAL antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 VAL:GLU antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 ALA:LYS antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LEU:PHE antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 ALA:VAL antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LEU:GLU antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 GLU:LEU antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 VAL:ALA antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 PHE:LEU antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LYS:ALA antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 CHA:CHA antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 CHA:PHE antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 PHE:CHA antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 CHA:VAL antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 VAL:CHA antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 CHA:LYS antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LYS:CHA antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 CHA:LEU antiparallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LEU:CHA antiparallel 4383.096740273599 951
+#Pal Formation 
+MSM_transitions nonspecific_11 LYS:LYS parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 VAL:VAL parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 PHE:PHE parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 GLU:GLU parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LEU:LEU parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 ALA:ALA parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LYS:VAL parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 VAL:PHE parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 PHE:GLU parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LEU:VAL parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 ALA:GLU parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 VAL:LYS parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 PHE:VAL parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 GLU:PHE parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LEU:LYS parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 ALA:PHE parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 LYS:LEU parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 PHE:ALA parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 VAL:LEU parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 GLU:ALA parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 CHA:CHA parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 CHA:PHE parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 CHA:VAL parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 VAL:CHA parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 CHA:GLU parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 GLU:CHA parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 ALA:CHA parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 CHA:ALA parallel 4383.096740273599 951
+MSM_transitions nonspecific_11 PHE:CHA parallel 4383.096740273599 951
+# Formation event 
+# MSM_statenonspecific_12 
+# Formation event 
+# MSM_statenonspecific_13 
+# Formation event 
+# MSM_statenonspecific_14 
+#Anti Formation 
+MSM_transitions nonspecific_14 LYS:GLU antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 VAL:PHE antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 PHE:VAL antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 GLU:LYS antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LEU:ALA antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 PHE:PHE antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 ALA:LEU antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 PHE:LYS antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 VAL:VAL antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LYS:PHE antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 GLU:VAL antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 VAL:GLU antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 ALA:LYS antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LEU:PHE antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 ALA:VAL antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LEU:GLU antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 GLU:LEU antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 VAL:ALA antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 PHE:LEU antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LYS:ALA antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 CHA:CHA antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 CHA:PHE antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 PHE:CHA antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 CHA:VAL antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 VAL:CHA antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 CHA:LYS antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LYS:CHA antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 CHA:LEU antiparallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LEU:CHA antiparallel 3738.673234685028 13043
+#Pal Formation 
+MSM_transitions nonspecific_14 LYS:LYS parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 VAL:VAL parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 PHE:PHE parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 GLU:GLU parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LEU:LEU parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 ALA:ALA parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LYS:VAL parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 VAL:PHE parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 PHE:GLU parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LEU:VAL parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 ALA:GLU parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 VAL:LYS parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 PHE:VAL parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 GLU:PHE parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LEU:LYS parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 ALA:PHE parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 LYS:LEU parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 PHE:ALA parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 VAL:LEU parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 GLU:ALA parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 CHA:CHA parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 CHA:PHE parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 CHA:VAL parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 VAL:CHA parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 CHA:GLU parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 GLU:CHA parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 ALA:CHA parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 CHA:ALA parallel 3738.673234685028 13043
+MSM_transitions nonspecific_14 PHE:CHA parallel 3738.673234685028 13043
+# Formation event 
+# MSM_statenonspecific_2 
+# Formation event 
+# MSM_statenonspecific_3 
+# Formation event 
+# MSM_statenonspecific_4 
+# Formation event 
+# MSM_statenonspecific_5 
+# Formation event 
+# MSM_statenonspecific_6 
+# Formation event 
+# MSM_statenonspecific_7 
+# Formation event 
+# MSM_statenonspecific_8 
+# Formation event 
+# MSM_statenonspecific_9 
+#Anti Formation 
+MSM_transitions nonspecific_9 LYS:GLU antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 VAL:PHE antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 PHE:VAL antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 GLU:LYS antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LEU:ALA antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 PHE:PHE antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 ALA:LEU antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 PHE:LYS antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 VAL:VAL antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LYS:PHE antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 GLU:VAL antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 VAL:GLU antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 ALA:LYS antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LEU:PHE antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 ALA:VAL antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LEU:GLU antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 GLU:LEU antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 VAL:ALA antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 PHE:LEU antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LYS:ALA antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 CHA:CHA antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 CHA:PHE antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 PHE:CHA antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 CHA:VAL antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 VAL:CHA antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 CHA:LYS antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LYS:CHA antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 CHA:LEU antiparallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LEU:CHA antiparallel 2120.2929936327555 785
+#Pal Formation 
+MSM_transitions nonspecific_9 LYS:LYS parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 VAL:VAL parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 PHE:PHE parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 GLU:GLU parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LEU:LEU parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 ALA:ALA parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LYS:VAL parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 VAL:PHE parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 PHE:GLU parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LEU:VAL parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 ALA:GLU parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 VAL:LYS parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 PHE:VAL parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 GLU:PHE parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LEU:LYS parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 ALA:PHE parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 LYS:LEU parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 PHE:ALA parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 VAL:LEU parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 GLU:ALA parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 CHA:CHA parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 CHA:PHE parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 CHA:VAL parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 VAL:CHA parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 CHA:GLU parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 GLU:CHA parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 ALA:CHA parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 CHA:ALA parallel 2120.2929936327555 785
+MSM_transitions nonspecific_9 PHE:CHA parallel 2120.2929936327555 785
+# Breakage event 
+# MSM_statenonspecific_0 
+# Breakage event 
+# MSM_statenonspecific_1 
+# Breakage event 
+# MSM_statenonspecific_10 
+# Breakage event 
+# MSM_statenonspecific_11 
+#Anti breakage 
+MSM_transitions LYS:GLU nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions VAL:PHE nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions PHE:VAL nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions GLU:LYS nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions LEU:ALA nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions PHE:PHE nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions ALA:LEU nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions PHE:LYS nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions VAL:VAL nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions LYS:PHE nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions GLU:VAL nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions VAL:GLU nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions ALA:LYS nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions LEU:PHE nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions ALA:VAL nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions LEU:GLU nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions GLU:LEU nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions VAL:ALA nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions PHE:LEU nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions LYS:ALA nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions CHA:CHA nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions CHA:PHE nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions PHE:CHA nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions CHA:VAL nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions VAL:CHA nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions CHA:LYS nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions LYS:CHA nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions CHA:LEU nonspecific_11 antiparallel 805.6240601502136 665
+MSM_transitions LEU:CHA nonspecific_11 antiparallel 805.6240601502136 665
+#Pal breakage 
+MSM_transitions LYS:LYS nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions VAL:VAL nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions PHE:PHE nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions GLU:GLU nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions LEU:LEU nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions ALA:ALA nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions LYS:VAL nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions VAL:PHE nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions PHE:GLU nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions LEU:VAL nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions ALA:GLU nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions VAL:LYS nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions PHE:VAL nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions GLU:PHE nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions LEU:LYS nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions ALA:PHE nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions LYS:LEU nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions PHE:ALA nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions VAL:LEU nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions GLU:ALA nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions CHA:CHA nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions CHA:PHE nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions CHA:VAL nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions VAL:CHA nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions CHA:GLU nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions GLU:CHA nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions ALA:CHA nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions CHA:ALA nonspecific_11 parallel 805.6240601502136 665
+MSM_transitions PHE:CHA nonspecific_11 parallel 805.6240601502136 665
+# Breakage event 
+# MSM_statenonspecific_12 
+# Breakage event 
+# MSM_statenonspecific_13 
+# Breakage event 
+# MSM_statenonspecific_14 
+#Anti breakage 
+MSM_transitions LYS:GLU nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions VAL:PHE nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions PHE:VAL nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions GLU:LYS nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions LEU:ALA nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions PHE:PHE nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions ALA:LEU nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions PHE:LYS nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions VAL:VAL nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions LYS:PHE nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions GLU:VAL nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions VAL:GLU nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions ALA:LYS nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions LEU:PHE nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions ALA:VAL nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions LEU:GLU nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions GLU:LEU nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions VAL:ALA nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions PHE:LEU nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions LYS:ALA nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions CHA:CHA nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions CHA:PHE nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions PHE:CHA nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions CHA:VAL nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions VAL:CHA nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions CHA:LYS nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions LYS:CHA nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions CHA:LEU nonspecific_14 antiparallel 1864.6225361106697 12531
+MSM_transitions LEU:CHA nonspecific_14 antiparallel 1864.6225361106697 12531
+#Pal breakage 
+MSM_transitions LYS:LYS nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions VAL:VAL nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions PHE:PHE nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions GLU:GLU nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions LEU:LEU nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions ALA:ALA nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions LYS:VAL nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions VAL:PHE nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions PHE:GLU nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions LEU:VAL nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions ALA:GLU nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions VAL:LYS nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions PHE:VAL nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions GLU:PHE nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions LEU:LYS nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions ALA:PHE nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions LYS:LEU nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions PHE:ALA nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions VAL:LEU nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions GLU:ALA nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions CHA:CHA nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions CHA:PHE nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions CHA:VAL nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions VAL:CHA nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions CHA:GLU nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions GLU:CHA nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions ALA:CHA nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions CHA:ALA nonspecific_14 parallel 1864.6225361106697 12531
+MSM_transitions PHE:CHA nonspecific_14 parallel 1864.6225361106697 12531
+# Breakage event 
+# MSM_statenonspecific_2 
+# Breakage event 
+# MSM_statenonspecific_3 
+# Breakage event 
+# MSM_statenonspecific_4 
+# Breakage event 
+# MSM_statenonspecific_5 
+# Breakage event 
+# MSM_statenonspecific_6 
+# Breakage event 
+# MSM_statenonspecific_7 
+# Breakage event 
+# MSM_statenonspecific_8 
+# Breakage event 
+# MSM_statenonspecific_9 
+#Anti breakage 
+MSM_transitions LYS:GLU nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions VAL:PHE nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions PHE:VAL nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions GLU:LYS nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions LEU:ALA nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions PHE:PHE nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions ALA:LEU nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions PHE:LYS nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions VAL:VAL nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions LYS:PHE nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions GLU:VAL nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions VAL:GLU nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions ALA:LYS nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions LEU:PHE nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions ALA:VAL nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions LEU:GLU nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions GLU:LEU nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions VAL:ALA nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions PHE:LEU nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions LYS:ALA nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions CHA:CHA nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions CHA:PHE nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions PHE:CHA nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions CHA:VAL nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions VAL:CHA nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions CHA:LYS nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions LYS:CHA nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions CHA:LEU nonspecific_9 antiparallel 214.7497914929278 1199
+MSM_transitions LEU:CHA nonspecific_9 antiparallel 214.7497914929278 1199
+#Pal breakage 
+MSM_transitions LYS:LYS nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions VAL:VAL nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions PHE:PHE nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions GLU:GLU nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions LEU:LEU nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions ALA:ALA nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions LYS:VAL nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions VAL:PHE nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions PHE:GLU nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions LEU:VAL nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions ALA:GLU nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions VAL:LYS nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions PHE:VAL nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions GLU:PHE nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions LEU:LYS nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions ALA:PHE nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions LYS:LEU nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions PHE:ALA nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions VAL:LEU nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions GLU:ALA nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions CHA:CHA nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions CHA:PHE nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions CHA:VAL nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions VAL:CHA nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions CHA:GLU nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions GLU:CHA nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions ALA:CHA nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions CHA:ALA nonspecific_9 parallel 214.7497914929278 1199
+MSM_transitions PHE:CHA nonspecific_9 parallel 214.7497914929278 1199
